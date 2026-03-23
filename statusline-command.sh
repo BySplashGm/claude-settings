@@ -1,4 +1,7 @@
 #!/bin/bash
+
+# Code adapted from https://www.reddit.com/r/ClaudeCode/comments/1rijrfd/comment/o86n7dr/
+
 # Line 1: <model>                        | current: <progressbar> X% / totalTokens
 # Line 2: effor: <effortLevel>        | hoursly: <progressbar> X% resets <time>
 # Line 3: <current_dir>                  | weekly: <progressbar> X% resets <datetime>
